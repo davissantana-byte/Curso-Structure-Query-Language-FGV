@@ -16,32 +16,6 @@ O curso é focado nos fundamentos do SQL e na manipulação de dados em bancos r
 
 ---
 
-## 📂 Estrutura do Repositório
-
-O projeto segue uma estrutura simples para facilitar a navegação por cada módulo do curso:
-**\`\`\`text**
-    Curso SQL - FGV/
-    ├── Módulo 1 - Consultando Dados/
-    │   └── Unidade 1 - O essencial sobre consultas/
-    │        ├── questao 1
-    │        ├── questao 2
-    │        ├── questao 3
-    │        ├── questao 4
-    │        ├── questao 5
-    │        ├── questao 6
-    │        ├── questao 7
-    │        ├── questao 8
-    │        └── questao 9
-    ├── Módulo 2 - Juntando Dados/
-    │   └── (Arquivos futuros)
-    ├── Módulo 3 - [Nome do Módulo Atual]/
-    │   └── (Arquivos futuros)
-    ├── PROJETO_FINAL/
-    │   └── (Arquivos futuros)
-    └── README.md  <-- Este arquivo
-**\`\`\`**
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 * **Linguagem:** SQL (Structured Query Language)
